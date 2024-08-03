@@ -1,0 +1,26 @@
+
+.headingText{
+	font-size:38px; color:#09F;
+	margin:5px;
+	font-weight:bold;
+	text-shadow:1px 1px 2px black;;
+	text-align:center;
+}
+.paraText{
+line-height:25px;
+padding:10px;
+text-align:justify;
+
+
+}
+.image{
+border:#03F;
+border-image:fill;
+}
+
+.middletext{
+	font-size:15px; color:#333;
+	font-weight:bold;
+	
+	
+}
