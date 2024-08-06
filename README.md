@@ -7,7 +7,7 @@ Users can search for flights by entering departure and destination cities, trave
 
 <img width="948" alt="Screenshot 2024-07-03 123807" src="https://github.com/user-attachments/assets/a063d489-8911-40f3-8b08-e309d6c283af">
 
-#### Technologies:
+## Technologies:
 
 HTML: Page layout and design
 CSS: Design
@@ -16,11 +16,11 @@ PHP: Backend
 Bootstrap
 Java Script
 
-#### Admin login:
+## Admin login:
 
 <img width="557" alt="Screenshot 2024-07-19 112459" src="https://github.com/user-attachments/assets/769545aa-907f-4072-be2b-08e784f06ea0">
 
-#### Admin penal:
+## Admin penal:
 
 Key Components:
 
@@ -33,4 +33,4 @@ Reports & Analytics: Generate reports on sales, user activity, and other metrics
 Notifications: Manage email and SMS notifications to users.
 Settings: General settings, payment gateway settings, and other configurations.
 
-
+<img width="951" alt="Screenshot 2024-07-19 112751" src="https://github.com/user-attachments/assets/4e76c8df-96f0-4257-84e3-4f9a84261acd">
