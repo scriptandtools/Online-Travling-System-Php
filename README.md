@@ -111,9 +111,9 @@ Now Connecting Database 4th Step: Open a browser and go to URL “http://localho
 
 5th Step: Click on the databases tab
 
-6th Step: Create a database named “realestatephp” and then click on the import tab
+6th Step: Create a database named “travel” and then click on the import tab
 
-7th Step: Click on browse file and select “realestatephp.sql” file which is inside “DATABASE” folder
+7th Step: Click on browse file and select “travel.sql” file which is inside “DATABASE” folder
 
 8th Step: Click on go.
 
