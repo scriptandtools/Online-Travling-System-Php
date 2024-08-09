@@ -21,6 +21,54 @@ Bootstrap
 
 Java Script
 
+## Features:
+
+User Registration & Login
+
+Profile Management
+
+Password Recovery
+
+Search & Book Trips
+
+Flight Booking
+
+Hotel Booking
+
+Car Rental Booking
+
+Package Tours
+
+Payment Integration
+
+Booking History
+
+Trip Cancellation & Refunds
+
+Trip Rescheduling
+
+Multi-Currency Support
+
+Discount Codes & Promotions
+
+Reviews & Ratings
+
+Travel Itinerary Management
+
+Travel Insurance Integration
+
+Booking Confirmation
+
+Admin Dashboard
+
+Booking Reports
+
+Revenue Reports
+
+Payment History
+
+Social Media Sharing
+
 ## Admin login:
 
 <img width="557" alt="Screenshot 2024-07-19 112459" src="https://github.com/user-attachments/assets/769545aa-907f-4072-be2b-08e784f06ea0">
@@ -40,7 +88,8 @@ Settings: General settings, payment gateway settings, and other configurations.
 
 <img width="951" alt="Screenshot 2024-07-19 112751" src="https://github.com/user-attachments/assets/4e76c8df-96f0-4257-84e3-4f9a84261acd">
 
-Installation
+## Installation
+
 After Starting Apache and MySQL in XAMPP, follow the following steps:
 
 1st Step: Extract file
